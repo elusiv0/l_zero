@@ -9,4 +9,4 @@ go mod download
 go mod tidy
 go run cmd/main.go
 ```
-В директории nats-producer лежит publisher в шину с тестовыми json-объектами
+В директории nats-producer лежит publisher в nats-streaming с тестовыми json-объектами
