@@ -1,5 +1,5 @@
 # Запуск
-Конструирование и запуск Postgres, Nats-streaming, Redis :
+Сборка и запуск контейнеров Postgres, Nats-streaming, Redis :
 ```
 docker-compose up -build
 ```
